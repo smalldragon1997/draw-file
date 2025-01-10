@@ -104,19 +104,27 @@
         </mxCell>
         <mxCell id="d4wcHK3KjlsEsvh35f20-18" value="t_order 预定表" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;" vertex="1" collapsed="1" parent="1">
           <mxGeometry x="-410" y="840" width="110" height="50" as="geometry">
-            <mxRectangle x="-410" y="840" width="200" height="290" as="alternateBounds" />
+            <mxRectangle x="-410" y="840" width="200" height="320" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="d4wcHK3KjlsEsvh35f20-19" value="&lt;div style=&quot;padding-top: 0px;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;id&amp;nbsp;&lt;/span&gt;&lt;/div&gt;tenant_id 租户&lt;div&gt;shop_id 店铺ID&lt;/div&gt;&lt;div&gt;car_id 车辆ID&lt;/div&gt;&lt;div&gt;user_id 用户ID&amp;nbsp;&lt;/div&gt;name 标题&lt;div&gt;predict_price 预计金额&amp;nbsp;&lt;br&gt;&lt;div&gt;status 预定状态（待确认、待取车、&lt;/div&gt;&lt;div&gt;用车中、待还车、用车结束）&lt;/div&gt;&lt;div&gt;post_time 预定时间&lt;/div&gt;&lt;div&gt;order_start_time 开始用车时间&lt;/div&gt;&lt;div&gt;order_end_time 结束用车时间&lt;/div&gt;&lt;div&gt;take_car_way 取车方式&lt;/div&gt;&lt;div&gt;take_car_address 取车地点&lt;/div&gt;&lt;div&gt;return_car_way 换车方式&lt;/div&gt;&lt;div&gt;return_car_address 换车地点&lt;/div&gt;&lt;div&gt;contract 用车合同&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;" vertex="1" parent="d4wcHK3KjlsEsvh35f20-18">
-          <mxGeometry y="30" width="200" height="260" as="geometry" />
+        <mxCell id="d4wcHK3KjlsEsvh35f20-19" value="&lt;div style=&quot;padding-top: 0px;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;id&amp;nbsp;&lt;/span&gt;&lt;/div&gt;tenant_id 租户&lt;div&gt;shop_id 店铺ID&lt;/div&gt;&lt;div&gt;car_id 车辆ID&lt;/div&gt;&lt;div&gt;user_id 用户ID&amp;nbsp;&lt;/div&gt;name 标题&lt;div&gt;predict_price 预计金额&amp;nbsp;&lt;br&gt;&lt;div&gt;status 预定状态（待确认、待取车、&lt;/div&gt;&lt;div&gt;用车中、待还车、用车结束）&lt;/div&gt;&lt;div&gt;post_time 预定时间&lt;/div&gt;&lt;div&gt;order_start_time 开始用车时间&lt;/div&gt;&lt;div&gt;order_end_time 结束用车时间&lt;/div&gt;&lt;div&gt;take_car_way 取车方式（到店取车&lt;/div&gt;&lt;div&gt;、上门送车）&lt;/div&gt;&lt;div&gt;take_car_address_id 取车地点ID&lt;/div&gt;&lt;div&gt;return_car_way 还车方式（到店还&lt;/div&gt;&lt;div&gt;车、上门取车）&lt;/div&gt;&lt;div&gt;return_car_address_id 换车地点ID&lt;/div&gt;&lt;div&gt;contract 用车合同&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;" vertex="1" parent="d4wcHK3KjlsEsvh35f20-18">
+          <mxGeometry y="30" width="200" height="290" as="geometry" />
         </mxCell>
-        <mxCell id="d4wcHK3KjlsEsvh35f20-22" value="t_order_evaluate 用车评价表" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-455" y="1200" width="200" height="210" as="geometry">
-            <mxRectangle x="-455" y="1200" width="200" height="50" as="alternateBounds" />
+        <mxCell id="d4wcHK3KjlsEsvh35f20-22" value="t_order_evaluate 用车评价表" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="-455" y="1200" width="200" height="50" as="geometry">
+            <mxRectangle x="-455" y="1200" width="200" height="210" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="d4wcHK3KjlsEsvh35f20-23" value="&lt;div style=&quot;padding-top: 0px;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;id&amp;nbsp;&lt;/span&gt;&lt;/div&gt;tenant_id 租户&lt;div&gt;shop_id 店铺ID&lt;/div&gt;&lt;div&gt;car_id 车辆ID&lt;/div&gt;&lt;div&gt;user_id 用户ID&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;order_id 预定ID&lt;/span&gt;&amp;nbsp;&lt;/div&gt;content 评价内容&lt;div&gt;star_info 评价等级（车辆整洁、&lt;/div&gt;&lt;div&gt;用车体验、客户服务、用车价格）&lt;/div&gt;&lt;div&gt;image_info 晒图信息&lt;/div&gt;&lt;div&gt;parent_id 回复评价ID&lt;/div&gt;" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;" vertex="1" parent="d4wcHK3KjlsEsvh35f20-22">
           <mxGeometry y="30" width="200" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="d4wcHK3KjlsEsvh35f20-27" value="t_user_address 用户地址表" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="-175" y="840" width="200" height="50" as="geometry">
+            <mxRectangle x="-175" y="840" width="200" height="160" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="d4wcHK3KjlsEsvh35f20-28" value="&lt;div style=&quot;padding-top: 0px;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;id&amp;nbsp;&lt;/span&gt;&lt;/div&gt;tenant_id 租户&lt;div&gt;user_id 用户ID&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/div&gt;name 名称&lt;br&gt;&lt;div&gt;phone 联系方式&lt;/div&gt;&lt;div&gt;address 地址信息&lt;/div&gt;&lt;div&gt;default 是否默认地址&lt;/div&gt;&lt;div&gt;image_info 地址照片确认&lt;/div&gt;" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;" vertex="1" parent="d4wcHK3KjlsEsvh35f20-27">
+          <mxGeometry y="30" width="200" height="130" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
