@@ -100,12 +100,12 @@
           <mxGeometry y="30" width="200" height="105" as="geometry" />
         </mxCell>
         <mxCell id="d4wcHK3KjlsEsvh35f20-18" value="t_order 预定表" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-410" y="840" width="200" height="300" as="geometry">
+          <mxGeometry x="-410" y="840" width="200" height="290" as="geometry">
             <mxRectangle x="-410" y="840" width="110" height="50" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="d4wcHK3KjlsEsvh35f20-19" value="&lt;div style=&quot;padding-top: 0px;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;id&amp;nbsp;&lt;/span&gt;&lt;/div&gt;tenant_id 租户&lt;div&gt;shop_id 店铺ID&lt;/div&gt;&lt;div&gt;car_id 车辆ID&lt;/div&gt;&lt;div&gt;user_id 用户ID&amp;nbsp;&lt;/div&gt;name 标题&lt;div&gt;status 预定状态（待确认、待取车、&lt;/div&gt;&lt;div&gt;用车中、待还车、用车结束）&lt;/div&gt;&lt;div&gt;post_time 预定时间&lt;/div&gt;&lt;div&gt;order_start_time 开始用车时间&lt;/div&gt;&lt;div&gt;order_end_time 结束用车时间&lt;/div&gt;&lt;div&gt;contract 用车合同&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;" vertex="1" parent="d4wcHK3KjlsEsvh35f20-18">
-          <mxGeometry y="30" width="200" height="270" as="geometry" />
+        <mxCell id="d4wcHK3KjlsEsvh35f20-19" value="&lt;div style=&quot;padding-top: 0px;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;id&amp;nbsp;&lt;/span&gt;&lt;/div&gt;tenant_id 租户&lt;div&gt;shop_id 店铺ID&lt;/div&gt;&lt;div&gt;car_id 车辆ID&lt;/div&gt;&lt;div&gt;user_id 用户ID&amp;nbsp;&lt;/div&gt;name 标题&lt;div&gt;predict_price 预计金额&amp;nbsp;&lt;br&gt;&lt;div&gt;status 预定状态（待确认、待取车、&lt;/div&gt;&lt;div&gt;用车中、待还车、用车结束）&lt;/div&gt;&lt;div&gt;post_time 预定时间&lt;/div&gt;&lt;div&gt;order_start_time 开始用车时间&lt;/div&gt;&lt;div&gt;order_end_time 结束用车时间&lt;/div&gt;&lt;div&gt;take_car_way 取车方式&lt;/div&gt;&lt;div&gt;take_car_address 取车地点&lt;/div&gt;&lt;div&gt;return_car_way 换车方式&lt;/div&gt;&lt;div&gt;return_car_address 换车地点&lt;/div&gt;&lt;div&gt;contract 用车合同&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;" vertex="1" parent="d4wcHK3KjlsEsvh35f20-18">
+          <mxGeometry y="30" width="200" height="260" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
