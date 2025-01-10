@@ -55,12 +55,12 @@
         <mxCell id="X4tEAedpMW4PkXCzZPzj-8" value="评价" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="200" y="470" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="d4wcHK3KjlsEsvh35f20-4" value="t_cat 车辆表" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="d4wcHK3KjlsEsvh35f20-4" value="t_car 车辆表" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-390" y="580" width="130" height="240" as="geometry">
             <mxRectangle x="150" y="610" width="90" height="50" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="d4wcHK3KjlsEsvh35f20-5" value="&lt;div style=&quot;padding-top: 0px;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;id&amp;nbsp;&lt;/span&gt;&lt;/div&gt;name 名称&lt;br&gt;price 日常价&lt;div&gt;cover 封面&lt;/div&gt;&lt;div&gt;image_info 图片信息&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;" vertex="1" parent="d4wcHK3KjlsEsvh35f20-4">
+        <mxCell id="d4wcHK3KjlsEsvh35f20-5" value="&lt;div style=&quot;padding-top: 0px;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;id&amp;nbsp;&lt;/span&gt;&lt;/div&gt;name 名称&lt;br&gt;price 日常价&lt;div&gt;cover 封面&lt;/div&gt;&lt;div&gt;image_info 图片信息&lt;/div&gt;&lt;div&gt;config 配置信息&lt;/div&gt;" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;" vertex="1" parent="d4wcHK3KjlsEsvh35f20-4">
           <mxGeometry y="30" width="130" height="210" as="geometry" />
         </mxCell>
       </root>
