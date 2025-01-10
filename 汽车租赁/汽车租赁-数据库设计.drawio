@@ -84,7 +84,7 @@
           <mxGeometry y="30" width="290" height="175" as="geometry" />
         </mxCell>
         <mxCell id="d4wcHK3KjlsEsvh35f20-9" value="t_employee 员工表" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;" vertex="1" collapsed="1" parent="1">
-          <mxGeometry x="220" y="585" width="90" height="50" as="geometry">
+          <mxGeometry x="220" y="585" width="160" height="50" as="geometry">
             <mxRectangle x="220" y="585" width="160" height="175" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
